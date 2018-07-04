@@ -18,7 +18,7 @@ test('purs', async t => {
 	(async () => {
 		t.equal(
 			await purs.version(),
-			'0.11.7',
+			'0.12.0',
 			'should show version with `version` method.'
 		);
 	})();
