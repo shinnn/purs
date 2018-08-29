@@ -1,6 +1,6 @@
 {
 	"name": "purs",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"description": "Spawn a new process using PureScript CLI",
 	"repository": "shinnn/purs",
 	"author": "Shinnosuke Watanabe (https://github.com/shinnn)",
